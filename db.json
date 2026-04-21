@@ -3,151 +3,151 @@
     {
       "id": 1,
       "title": "Spring Cup 2026",
-      "escription": "Open bracket tournament for amateur teams.",
+      "description": "Open bracket tournament for amateur teams.",
       "imageUrl": "https://picsum.photos/seed/tournament-1/640/360"
     },
     {
       "id": 2,
       "title": "City Clash",
-      "escription": "Regional league with round-robin stage.",
+      "description": "Regional league with round-robin stage.",
       "imageUrl": "https://picsum.photos/seed/tournament-2/640/360"
     },
     {
       "id": 3,
       "title": "Pro Arena Masters",
-      "escription": "Invitational event for top-ranked squads.",
+      "description": "Invitational event for top-ranked squads.",
       "imageUrl": "https://picsum.photos/seed/tournament-3/640/360"
     },
     {
       "id": 4,
       "title": "Weekend Showdown",
-      "escription": "Fast-paced weekend cup with single elimination.",
+      "description": "Fast-paced weekend cup with single elimination.",
       "imageUrl": "https://picsum.photos/seed/tournament-4/640/360"
     },
     {
       "id": 5,
       "title": "Legends Invitational",
-      "escription": "Prestige tournament featuring veteran players.",
+      "description": "Prestige tournament featuring veteran players.",
       "imageUrl": "https://picsum.photos/seed/tournament-5/640/360"
     },
     {
       "id": 6,
       "title": "Summer Open",
-      "escription": "Large open event with qualifiers and finals.",
+      "description": "Large open event with qualifiers and finals.",
       "imageUrl": "https://picsum.photos/seed/tournament-6/640/360"
     },
     {
       "id": 7,
       "title": "Midnight League",
-      "escription": "Night schedule competition for online teams.",
+      "description": "Night schedule competition for online teams.",
       "imageUrl": "https://picsum.photos/seed/tournament-7/640/360"
     },
     {
       "id": 8,
       "title": "Rookie Rush",
-      "escription": "Entry-level tournament for new participants.",
+      "description": "Entry-level tournament for new participants.",
       "imageUrl": "https://picsum.photos/seed/tournament-8/640/360"
     },
     {
       "id": 9,
       "title": "Elite Championship",
-      "escription": "High-tier championship with seeded playoffs.",
+      "description": "High-tier championship with seeded playoffs.",
       "imageUrl": "https://picsum.photos/seed/tournament-9/640/360"
     },
     {
       "id": 10,
       "title": "Autumn Brawl",
-      "escription": "Seasonal tournament with mixed format stages.",
+      "description": "Seasonal tournament with mixed format stages.",
       "imageUrl": "https://picsum.photos/seed/tournament-10/640/360"
     },
     {
       "id": 11,
       "title": "National Finals",
-      "escription": "Country-wide finals between regional winners.",
+      "description": "Country-wide finals between regional winners.",
       "imageUrl": "https://picsum.photos/seed/tournament-11/640/360"
     },
     {
       "id": 12,
       "title": "Campus Cup",
-      "escription": "University tournament across student teams.",
+      "description": "University tournament across student teams.",
       "imageUrl": "https://picsum.photos/seed/tournament-12/640/360"
     },
     {
       "id": 13,
       "title": "Prime Series",
-      "escription": "Best-of-three matches in group stage.",
+      "description": "Best-of-three matches in group stage.",
       "imageUrl": "https://picsum.photos/seed/tournament-13/640/360"
     },
     {
       "id": 14,
       "title": "Rapid Knockout",
-      "escription": "Short bracket event with quick match timers.",
+      "description": "Short bracket event with quick match timers.",
       "imageUrl": "https://picsum.photos/seed/tournament-14/640/360"
     },
     {
       "id": 15,
       "title": "Nightfall Cup",
-      "escription": "Community-driven cup hosted every Friday.",
+      "description": "Community-driven cup hosted every Friday.",
       "imageUrl": "https://picsum.photos/seed/tournament-15/640/360"
     },
     {
       "id": 16,
       "title": "Grand Slam Arena",
-      "escription": "Major seasonal event with large prize pool.",
+      "description": "Major seasonal event with large prize pool.",
       "imageUrl": "https://picsum.photos/seed/tournament-16/640/360"
     },
     {
       "id": 17,
       "title": "Winter Classic",
-      "escription": "Traditional winter tournament with live finals.",
+      "description": "Traditional winter tournament with live finals.",
       "imageUrl": "https://picsum.photos/seed/tournament-17/640/360"
     },
     {
       "id": 18,
       "title": "Open Qualifier East",
-      "escription": "Eastern conference qualifier tournament.",
+      "description": "Eastern conference qualifier tournament.",
       "imageUrl": "https://picsum.photos/seed/tournament-18/640/360"
     },
     {
       "id": 19,
       "title": "Open Qualifier West",
-      "escription": "Western conference qualifier tournament.",
+      "description": "Western conference qualifier tournament.",
       "imageUrl": "https://picsum.photos/seed/tournament-19/640/360"
     },
     {
       "id": 20,
       "title": "Champions Path",
-      "escription": "Progressive ladder tournament with divisions.",
+      "description": "Progressive ladder tournament with divisions.",
       "imageUrl": "https://picsum.photos/seed/tournament-20/640/360"
     },
     {
       "id": 21,
       "title": "Thunder Series",
-      "escription": "Best teams compete in double elimination.",
+      "description": "Best teams compete in double elimination.",
       "imageUrl": "https://picsum.photos/seed/tournament-21/640/360"
     },
     {
       "id": 22,
       "title": "Arena Cup X",
-      "escription": "Special edition tournament with bonus rounds.",
+      "description": "Special edition tournament with bonus rounds.",
       "imageUrl": "https://picsum.photos/seed/tournament-22/640/360"
     },
     {
       "id": 23,
       "title": "Glory League",
-      "escription": "League format tournament over four weeks.",
+      "description": "League format tournament over four weeks.",
       "imageUrl": "https://picsum.photos/seed/tournament-23/640/360"
     },
     {
       "id": 24,
       "title": "Final Stand",
-      "escription": "End-season tournament for top contenders.",
+      "description": "End-season tournament for top contenders.",
       "imageUrl": "https://picsum.photos/seed/tournament-24/640/360"
     },
     {
       "id": 25,
       "title": "Ultimate Cup",
-      "escription": "Main championship event with grand finals.",
+      "description": "Main championship event with grand finals.",
       "imageUrl": "https://picsum.photos/seed/tournament-25/640/360"
     }
   ]
